@@ -1,1 +1,1 @@
-# BUS-353-FINAL-PROJECT-CODE-ASSIGNMENT
+University of Idaho Scheduling and Appointment mobile app
